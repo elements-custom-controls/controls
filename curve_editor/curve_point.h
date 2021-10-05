@@ -1,3 +1,10 @@
+/*=============================================================================
+   Copyright (c) 2021 Johann Philippe
+
+   Distributed under the MIT License (https://opensource.org/licenses/MIT)
+=============================================================================*/
+
+
 #ifndef CURVE_POINT_H
 #define CURVE_POINT_H
 #include<elements.hpp>

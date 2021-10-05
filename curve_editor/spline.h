@@ -1,3 +1,9 @@
+/*=============================================================================
+   Copyright (c) 2021 Johann Philippe
+
+   Distributed under the MIT License (https://opensource.org/licenses/MIT)
+=============================================================================*/
+
 #ifndef SPLINE_H
 #define SPLINE_H
 

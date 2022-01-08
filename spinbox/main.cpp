@@ -1,5 +1,5 @@
 /*=============================================================================
-   Copyright (c) 2016-2020 Joel de Guzman
+   Copyright (c) 2021 Johann Philippe
 
    Distributed under the MIT License (https://opensource.org/licenses/MIT)
 =============================================================================*/
@@ -14,7 +14,7 @@ auto background = box(bkd_color);
 
 int main(int argc, char* argv[])
 {
-   app _app(argc, argv, "Empty Starter", "com.cycfi.empty-starter");
+   app _app(argc, argv, "SpinBox", "com.cycfi.spinbox");
    window _win(_app.name());
    _win.on_close = [&_app]() { _app.stop(); };
 
